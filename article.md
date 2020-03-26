@@ -1,26 +1,26 @@
-# 9 questions about the coronavirus outbreak, answered
+# 10 questions about the coronavirus outbreak, answered
 
-Is it safe to travel? Should you buy a mask? What about the people who don’t have symptoms?
+Is it safe to travel? Is this going to become a pandemic? How will this outbreak end?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Feb 6, 2020, 11:33am EST
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Feb 10, 2020, 4:00pm EST
 
-The coronavirus outbreak, centered in China, keeps evolving at a dizzying speed. And so is the global response. In the past week, Russia and Singapore sealed their borders to China and the World Health Organization declared the outbreak a global public health emergency. Meanwhile, the US government dramatically escalated its response — issuing its highest-level travel advisory, quarantining citizens evacuated from China, and temporarily banning foreign nationals who have recently been to the East Asian country from coming in.
+The coronavirus outbreak, centered in China, keeps evolving at a dizzying speed. With the case toll rising steeply — reaching over 40,000 on February 10 — and face masks flying off store shelves, it’s no wonder questions and fears are swirling about 2019-nCoV, as the virus is known.
 
-With the case toll rising steeply (reaching over 28,000 by February 6) and face masks flying off store shelves, it’s no wonder questions — and fears — are swirling about 2019-nCoV, as the virus is known.
-
-For most people in the US, though, there’s really no reason to worry. And while making sense of risks with a new, quick-spreading pathogen is tricky, infectious disease experts can help us sort it out. Here are answers to your most burning questions about the new coronavirus and its risks.
+For most people in the US, there’s no reason to worry: Ninety-nine percent of cases are happening in China. But that may shift in the coming weeks as more outbreaks are detected in other countries. Here are answers to your most burning questions about the new coronavirus and its risks.
 
 ## 1) What is this new coronavirus, and what are the symptoms?
 
-Coronaviruses are a large family of viruses that typically attack the respiratory system. The name comes from the Latin word corona, meaning crown, because of the spiky fringe that encircles these viruses. Most infect animals, such as bats, cats, and birds. Only seven, including 2019-nCoV, SARS, and MERS, are known to infect humans.
+Coronaviruses are a large family of viruses that typically attack the respiratory system. The name comes from the Latin word corona and the Ancient Greek korōnè, meaning garland, or wreath, because of the spiky fringe encircling these viruses. Most infect animals, such as bats, cats, and birds. Only seven, including 2019-nCoV, SARS, and MERS, are known to infect humans.
 
-SARS is thought to have evolved from bats to civet cats to humans in China; MERS evolved from bats to camels to humans in the Middle East. No one knows where 2019-nCoV came from. For now, it is believed to have made the leap from animals in Wuhan, China, a city of 11 million, late last year. But researchers are still trying to suss out its precise origins.
+SARS is thought to have evolved from bats to civet cats to humans in China; MERS evolved from bats to camels to humans in the Middle East. No one knows where 2019-nCoV came from. For now, the new coronavirus is believed to have made the leap from animals in Wuhan, China, a city of 11 million, late last year. But researchers are still trying to suss out its precise origins.
 
 As for symptoms: Two of the seven coronaviruses that infect humans, SARS and MERS, can cause severe pneumonia and even death in 10 and more than 30 percent of cases, respectively. But the others lead to milder symptoms, like a common cold. At the moment, we know 2019-nCoV can kill — but it’s not clear how often or how its fatality rate compares to SARS and MERS.
 
-According to the Centers for Disease Control and Prevention, most patients right now start with a fever, cough, and shortness of breath. An early report, published in The Lancet, provided even more detailed information. It looked at a subset of the first 41 patients with confirmed 2019-nCoV in Wuhan. The most common symptoms were fever, cough, muscle pain, and fatigue; less common were headache, diarrhea, and coughing up mucus or blood. All had pneumonia and lung abnormalities on CT scans. As for the disease severity: 13 patients were admitted to an ICU, and six died. By January 22, most (68 percent) of the patients had been discharged from the hospital.
+According to the Centers for Disease Control and Prevention, most patients start with a fever, cough, and shortness of breath. An earlier report, published in The Lancet, provided more detailed information. It looked at a subset of the first 41 patients with confirmed 2019-nCoV in Wuhan. The most common symptoms were fever, cough, muscle pain, and fatigue; less common were headache, diarrhea, and coughing up mucus or blood. All had pneumonia and lung abnormalities on CT scans. As for the disease severity: 32 percent were admitted to an ICU, and 15 percent died. By January 22, most (68 percent) of the patients had been discharged from the hospital.
 
-More recently, there have also been reports of people with very mild symptoms, like the cases in southern Germany. There’s even evidence of asymptomatic cases. It’s possible that as we learn more, 2019-nCoV will seem more like the flu than like SARS. That’s because infectious diseases typically look more severe when they’re first discovered, since the people showing up in hospitals tend to be the sickest. And already, the new virus appears to be less deadly than both SARS and MERS.
+By February 10, the WHO said 80 percent of patients have been found to have mild disease; 3 to 5 percent need intensive care; and 2 percent have died.
+
+At the same time, there’s also evidence of asymptomatic cases. And it’s possible that as we learn more, 2019-nCoV will seem more like the flu than like SARS. That’s because infectious diseases typically look more severe when they’re first discovered, since the people showing up in hospitals tend to be the sickest. Already, the new virus appears to be less deadly than both SARS and MERS.
 
 ## 2) How do coronaviruses spread?
 
@@ -40,9 +40,9 @@ Of the cases right now, 99 percent are in mainland China. And more than half of 
 
 People with the virus have been detected in other countries, which is the reason the WHO declared the outbreak a public health emergency. But to date, those have mainly been travelers from China and their close contacts. “So if people are traveling [anywhere outside of China,] your risk is close to zero percent,” Bogoch said.
 
-What if you have to travel and you’re seated near someone who is sick? That’s not even time to panic. “There has been some work looking into the risk of acquiring infectious diseases through air travel,” Bogoch said. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low.”
+What if you have to travel and you’re seated near someone who is sick? That’s not time to panic, either. “There has been some work looking into the risk of acquiring infectious diseases through air travel,” Bogoch said. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low.”
 
-The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long, or they’re not very infectious, the lower the risk. And again, it’s unlikely that sick person even has the coronavirus.
+The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long, or they’re not very infectious, the risk is lower. And again, it’s unlikely that sick person has the coronavirus.
 
 ## 4) I’m still worried about the new coronavirus. What should I do to protect myself? Buy a mask?
 
@@ -62,30 +62,30 @@ The outbreak there was first identified in Bavaria on January 27, when a German 
 
 If this were true, it’d throw a wrench in the attempts to stop the virus from spreading, since it suggests people who don’t even know they’re infected can spread the disease.
 
-But it turns out the researchers published this report without having spoken to the woman from Singapore. And within days of the report, the Robert Koch Institute — Germany’s public health agency — wrote a letter to NEJM about an error in the study, according to Science’s Kai Kupferschmidt, who broke the story. The researchers followed up with the woman and found out she actually did have symptoms while in Germany. She “felt tired, suffered from muscle pain, and took paracetamol, a fever-lowering medication,” Kupferschmidt explained.
+But it turns out the researchers published this report without having spoken to the woman. And within days of the report, the Robert Koch Institute — Germany’s public health agency — wrote a letter to NEJM about an error in the study, according to Science’s Kai Kupferschmidt, who broke the story. The public health researchers followed up with the woman and found out she actually did have symptoms while in Germany. She “felt tired, suffered from muscle pain, and took paracetamol, a fever-lowering medication,” Kupferschmidt explained.
 
-This doesn’t mean that we won’t still find out people can spread the virus asymptomatically. That evidence could still surface, and some believe it will. However, Bogoch said, “even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic.”
+This doesn’t mean that we won’t still find out people can spread the virus asymptomatically. More evidence could still surface, and some believe it will. However, Bogoch said, “even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic.”
 
-## 6) Does the WHO declaration that the coronavirus is a global health emergency mean this is going to become a deadly pandemic?
-The WHO’s declaration of a “public health emergency of international concern,” or PHEIC, is a political tool the agency can use to try to prevent a pandemic — drawing attention to a serious disease threat, engaging the global community in a coordinated outbreak response, galvanizing resources, and giving countries guidance on how to react, and stop the disease from spreading further across borders.
+## 6) Is this going to become a deadly pandemic?
+While there are cases in at least 25 other countries, they haven’t yet turned into local outbreaks. So for now, the CDC and WHO are still calling this an outbreak. Very soon, though, health experts may determine that there are enough cases in China to officially call the outbreak an epidemic. And if the disease continues to spread locally in other countries, it could turn into a pandemic (which is defined as an epidemic that’s spread to two or more regions of the world).
 
-The agency’s director general, Tedros Adhanom Ghebreyesus, was very clear that they sounded the alarm as a precautionary measure: The agency is concerned about the potential damage the virus could do in countries with weaker health systems, and called on the international community to help. He emphasized that the vast majority of cases are still in China, and that China has moved swiftly to get the outbreak under control.
+On February 10, the WHO’s director general, Dr. Tedros Adhanom Ghebreyesus, flicked at that possibility. He noted there were cases outside of China, which included “concerning instances of onward transmission from people with no travel history to China.” These “could be the spark that becomes a bigger fire.”
 
-While there are cases in at least 25 other countries, they haven’t turned into local outbreaks. So for now, the CDC and WHO are still calling this an outbreak. Very soon, though, health experts may determine that there are enough cases in China to call the outbreak an epidemic. And if the disease continues to spread locally in other countries, it could turn into a pandemic (which is defined as an epidemic that’s spread to two or more regions of the world).
+But a disease can spread widely, and become a pandemic, without being particularly severe. And no one knows yet what a 2019nCoV pandemic would look like — mostly because we don’t yet know how lethal this disease is.
 
-But a disease can be pandemic and not particularly severe. And no one knows yet what a 2019nCoV pandemic would look like — mostly because we don’t yet know how lethal this disease is.
+If you take the current number of deaths and divide it by the number of known cases, “the case fatality is 2 percent — and it’s gone down from 3 percent in the early days,” said University of Michigan’s Howard Markel, who studies outbreaks. “And if it goes really, really low, we’ll probably say — like we did in Mexico in 2009 with swine flu — that it’s something very similar, if not less deadly, [to] regular seasonal flu.”
 
-If you take the current number of deaths and divide it by the number of known cases, “the case fatality is 2 percent — and it’s gone down from 3 percent in the early days,” said University of Michigan’s Howard Markel, who studies outbreaks. “And if it goes really, really low, we’ll probably say — like we did in Mexico in 2009 with swine flu — that it’s something very similar, if not less deadly, than regular seasonal flu.”
+So once more of these mild cases are discovered, this virus could look a lot less deadly.
 
-So once more of these mild cases are discovered, this virus could look a lot less scary.
-
-“We live [with] and tolerate a whole lot of respiratory viruses,” Nuzzo said, “some of which are even more transmissible than the estimates people have come out with for this one — but they don’t make the headlines.” If the new coronavirus winds up looking less severe, she added, “we may be moving away from containing the virus as a goal to one of minimizing its spread.”
+“We live [with] and tolerate a whole lot of respiratory viruses,” Nuzzo said, “some of which are even more transmissible than the estimates people have come out with for this one — but they don’t make the headlines.”
 
 ## 7) Is my city at risk of an outbreak?
 
-Some of the best research on that question comes from Bogoch and his colleagues. They’ve done great studies in the past couple of weeks on the cities most vulnerable to novel coronavirus infections. What’s the big takeaway?
+Some of the best research on that question comes from Bogoch and his colleagues. They’ve done studies in the past couple of weeks on the cities most vulnerable to novel coronavirus infections. What’s the big takeaway?
 
-It’s really East Asia and Southeast Asia that are most at risk. The researchers — from the University of Oxford, University of Toronto, and London School of Medicine and Tropical Hygiene — used 2019 data from the International Air Transport Association to find all the cities in China that received at least 100,000 airline passengers from Wuhan during February through April.
+It’s really East Asia and Southeast Asia that are most at risk.
+
+The researchers — from the University of Oxford, University of Toronto, and London School of Medicine and Tropical Hygiene — used 2019 data from the International Air Transport Association to find all the cities in China that received at least 100,000 airline passengers from Wuhan during February through April.
 
 They then modeled how the disease could spread from those cities if they experienced local outbreaks. Here are 15 of the top 50 destinations that might see outbreaks (also pay attention to the IDVI — the Infectious Disease Vulnerability Index — number. It’s a measure of a country’s ability to manage an infectious disease. Scores closer to zero mean they’re less prepared.)
 
@@ -93,24 +93,32 @@ They then modeled how the disease could spread from those cities if they experie
 
 ## 8) So what might happen next?
 
-If China contains the virus, and the outbreaks in other countries don’t blow up and spread into more communities, we might see the case count start to fall and the public health emergency end.
+If China contains the virus, and the outbreaks in other countries don’t blow up, we might see the case count start to fall and the public health emergency fizzle out.
 
-But there are already so many cases in so many provinces in China, as well as the very real possibility that the virus is circulating, undetected, in countries with weak health systems, so the possibility of containment in China is looking less likely by the day.
+But there are already so many cases across China, as well as the very real possibility that the virus is circulating, undetected, in countries with weak health systems, that the possibility of containment is looking less likely by the day.
 
-If 2019nCoV is not contained, “if it continues to accelerate, we very well may have a pandemic,” said Tony Fauci, the head of the National Institute of Allergy and Infectious Diseases. That will mean there’s more sicknesses and deaths not only in China, but also in other countries around the world, as cases grow from one-off travelers or small clusters to full-blown outbreaks.
+If 2019nCoV is not contained, “if it continues to accelerate, we very well may have a pandemic,” said Tony Fauci, the head of the National Institute of Allergy and Infectious Diseases. That would mean more sickness and deaths not only in China, but also in other countries around the world, as cases grow from one-off travelers or small clusters to full-blown outbreaks.
 
-It also suggests, he added, that “you don’t try to control [the virus] because it’s already everywhere.” So public health officials would move from attempting containment of the virus to mitigating its impact — setting up hospitals to isolate and care for patients, making recommendations for “social distancing” (like canceling public events), and coming up with triaging protocols for the many people who might need hospital care.
+In this scenario, he added, “you don’t try to control [the virus] because it’s already everywhere.” So public health officials would move from attempting containment of the virus to mitigating its impact — setting up hospitals to isolate and care for patients, making recommendations for “social distancing” (like canceling public events), and coming up with triaging protocols for the many people who might need hospital care.
 
-But again, even if this virus spreads around the world — it may not be very deadly. In the best-case scenario, this outbreak might look more like H1N1 swine flu than SARS or Spanish flu. When H1N1 was first recognized in 2009 and spread around the world, there were major concerns about its deadliness. US schools closed, people from North America were quarantined when they arrived in other countries, flights were canceled. Not only did those measures fail to contain the virus, Nuzzo said, it turned out H1N1 wasn’t all that deadly.
+But again, even if this virus moves around the world, it may not be very deadly. In the best-case scenario, this outbreak might look more like H1N1 swine flu. When H1N1 was first recognized in 2009 and spread around the world, there were major concerns about its lethality. US schools closed, people from North America were quarantined when they arrived in other countries, flights were canceled. Not only did those measures fail to contain the virus, Nuzzo said, it turned out H1N1 wasn’t all that deadly.
 
 “Now we’re still living with that virus — it’s one that circulates with every flu season,” Nuzzo explained.
 
-## 9) How might this end?
+## 9) How is the world responding to this crisis?
+
+These extreme measures can be explained, in part, by all the unknowns related to this virus: leaders are taking extreme precautions for fear 2019nCoV is very deadly and can spread very far. The measures can also be explained by the fact that we have no enforceable international law governing outbreak responses. So countries can basically do what they want in response to pandemic threats without getting penalized, even if the WHO advises against whatever actions they’re taking.
+
+The most dramatic — and unprecedented — response is currently playing out in China, where more than 50 million people are under quarantine. “China has implemented the most extensive cordon sanitaire [or quarantine] in the history of humankind,” Lawrence Gostin, a global health law professor at Georgetown University, told Vox. “They’ve restricted movements, caused fear and panic. They’ve violated human rights.”
+
+Authorities there have also censored information and silenced the whistleblowers who tried to sound the alarm sooner than Chinese authorities were willing. But again, because of the weakness of global health law, the international community has remained mostly silent about these potential human rights abuses.
+
+## 10) How might this end?
 
 There are a few ways this outbreak could end, as my colleague Brian Resnick explained. Perhaps public health measures — identifying cases fast, putting infected people in isolation — will stop the spread of this coronavirus. (That’s what stopped the spread of SARS in 2003.)
 
-Because this is a zoonotic disease, which came from an animal, finding and eliminating that source would also help. Or maybe a vaccine or antiviral will be invented quickly to curb a broader epidemic (though that’d likely take years).
+Because this is a zoonotic disease, meaning it came from an animal, finding and eliminating that source would also help. Or maybe a vaccine or antiviral will be invented quickly to curb a broader epidemic (though that’ll likely take years).
 
-Maybe the coming seasons of warmer weather will play a role in at least slowing the virus down. “Coronaviruses are winter viruses,” Fauci said. “When the weather is warm and moist, these viruses don’t spread as well as when the weather is cold and dry.”
+The coming seasons of warmer weather could also play a role in at least slowing the virus down. “Coronaviruses are winter viruses,” Fauci said. “When the weather is warm and moist, these viruses don’t spread as well as when the weather is cold and dry.”
 
 Finally, there’s the possibility the virus will simply die out. “Disease outbreaks are a bit like fires,” Resnick wrote. “The virus is the flame. Susceptible people are the fuel. Eventually a fire burns itself out if it runs out of kindling. A virus outbreak will end when it stops finding susceptible people to infect.”
