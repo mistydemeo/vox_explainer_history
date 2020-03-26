@@ -2,11 +2,11 @@
 
 Is it safe to travel? Should you buy a mask? What about the people who don’t have symptoms?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Jan 31, 2020, 1:55pm EST
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Jan 31, 2020, 4:35pm EST
 
-The coronavirus outbreak, centered in China, is evolving at a dizzying speed. In the past 24 hours alone, Russia and Singapore sealed their borders to China and the World Health Organization declared the outbreak a public health emergency. Meanwhile, the US government announced the first case of person-to-person spread on American soil, issued its highest-level travel advisory to avoid non-essential travel to China, and said it would quarantine 195 citizens evacuated from Wuhan, China for 14 days.
+The coronavirus outbreak, centered in China, is evolving at a dizzying speed. And so is the global response. In the past 24 hours alone, Russia and Singapore have sealed their borders to China and the World Health Organization declared the outbreak a global public health emergency. Meanwhile, the US government dramatically escalated its response — issuing its highest-level travel advisory, quarantining 195 citizens evacuated from China, and temporarily banning foreign nationals who have recently been to China from coming in.
 
-With the case toll rising fast, surpassing 9,000 on January 31, and face masks flying off store shelves, it’s no wonder questions — and fears — are swirling about 2019-nCoV, as the virus is known.
+With the case toll rising fast, reaching nearly 10,000 on January 31, and face masks flying off store shelves, it’s no wonder questions — and fears — are swirling about 2019-nCoV, as the virus is known.
 
 For most people in the US, though, there’s really no reason to worry. And while making sense of risks with a new, quick-spreading pathogen is tricky, infectious disease experts are helping us sort it out. Here are answers to your most burning questions about the new coronavirus and its risks.
 
@@ -50,7 +50,7 @@ In the US, the risk to the public is currently deemed low. And just about every 
 
 Masks are only useful if you have a respiratory infection already and want to minimize the risk of spread to others, or if you’re working in a hospital and are in direct contact with people who have respiratory illnesses. (Plus, there are reports of runs on masks and other supplies health workers need to stay safe.)
 
-That’s why the CDC advises against the use of masks for regular Americans. “The virus not spreading in the general community,” Nancy Messonnier, director of the CDC’s National Center for Immunization and Respiratory Diseases, reasoned in a press briefing on January 30. But people are hoarding them anyway, and for the wrong reasons.
+That’s why the CDC advises against the use of masks for regular Americans. “The virus is not spreading in the general community,” Nancy Messonnier, director of the CDC’s National Center for Immunization and Respiratory Diseases, reasoned in a press briefing on January 30. But people are hoarding them anyway, and for the wrong reasons.
 
 The best thing you can do to prevent all sorts of illness, said Messonnier, is “wash your hands, cover your cough, take care of yourself, and keep alert to the information that we’re providing.”
 
@@ -71,7 +71,7 @@ Instead, a PHEIC is a political tool the agency can use to draw attention to a s
 
 The agency’s director general, Tedros Adhanom Ghebreyesus, was very clear that they sounded the alarm as a precautionary measure: The agency is concerned about the potential damage the virus could do in countries with weaker health systems, and called on the international community to help. He emphasized that the vast majority of cases are still in China, and that China has moved swiftly to get the outbreak under control.
 
-If the disease continues to spread, however, it could turn into a pandemic — or a disease that spreads globally, with epidemics in multiple countries around the world. And that’s something health officials in the US around the world are getting ready for. “We are preparing as if this is the next pandemic,” the CDC’s Messonnier said on January 31.
+If the disease continues to spread, however, it could turn into a pandemic: or a disease that spreads globally, with epidemics in multiple countries around the world. And that’s something health officials in the US and around the world are working to prevent. “We are preparing as if this is the next pandemic,” the CDC’s Messonnier said on January 31.
 
 For now, the CDC and WHO are still calling this an outbreak. Very soon, health experts may determine that there are enough cases in China to call the outbreak an epidemic.
 
@@ -89,7 +89,7 @@ It’s really East Asia and Southeast Asia that are most at risk. The researcher
 
 They then modeled how the disease could spread from those cities if they experienced local outbreaks. Here are 15 of the top 50 destinations that might see outbreaks (also pay attention to the IDVI — the Infectious Disease Vulnerability Index — number. It’s a measure of a country’s ability to manage an infectious disease. Scores closer to zero mean they’re less prepared.)
 
-“By no means would anybody be surprised if there are more cases exported to Europe and the US,” said Boloch. “But the places that are going to have the greatest volume and number of infections exported would be to East Asian and Southeast Asian centers.”
+“By no means would anybody be surprised if there are more cases exported to Europe and the US,” said Bogoch. “But the places that are going to have the greatest volume and number of infections exported would be to East Asian and Southeast Asian centers.”
 
 ## 8) When will this end?
 
