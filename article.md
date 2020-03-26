@@ -2,13 +2,13 @@
 
 Is it safe to travel? Should you buy a mask? What about the people who don’t have symptoms?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Jan 31, 2020, 4:35pm EST
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Feb 2, 2020, 4:14am EST
 
-The coronavirus outbreak, centered in China, is evolving at a dizzying speed. And so is the global response. In the past 24 hours alone, Russia and Singapore have sealed their borders to China and the World Health Organization declared the outbreak a global public health emergency. Meanwhile, the US government dramatically escalated its response — issuing its highest-level travel advisory, quarantining 195 citizens evacuated from China, and temporarily banning foreign nationals who have recently been to China from coming in.
+The coronavirus outbreak, centered in China, is evolving at a dizzying speed. And so is the global response. In the past couple of days, Russia and Singapore have sealed their borders to China and the World Health Organization declared the outbreak a global public health emergency. Meanwhile, the US government dramatically escalated its response — issuing its highest-level travel advisory, quarantining 195 citizens evacuated from China, and temporarily banning foreign nationals who have recently been to China from coming in.
 
-With the case toll rising fast, reaching nearly 10,000 on January 31, and face masks flying off store shelves, it’s no wonder questions — and fears — are swirling about 2019-nCoV, as the virus is known.
+With the case toll rising steeply, reaching over 14,000 on February 2, with 300 deaths, and face masks flying off store shelves, it’s no wonder questions — and fears — are swirling about 2019-nCoV, as the virus is known.
 
-For most people in the US, though, there’s really no reason to worry. And while making sense of risks with a new, quick-spreading pathogen is tricky, infectious disease experts are helping us sort it out. Here are answers to your most burning questions about the new coronavirus and its risks.
+For most people in the US, though, there’s really no reason to worry. And while making sense of risks with a new, quick-spreading pathogen is tricky, infectious disease experts can helping us sort it out. Here are answers to your most burning questions about the new coronavirus and its risks.
 
 ## 1) What is this new coronavirus, and what are the symptoms?
 
@@ -30,19 +30,19 @@ So when an infected person coughs or sneezes, they let out a spray, and if these
 
 ## 3) Should I travel while this outbreak is going on?
 
-Both the CDC and the State Department have issued their highest-level travel alerts for China, advising Americans to avoid going to China for the moment. (These advisories are likely to change as the outbreak evolves, so keep checking them.)
+Both the CDC and the State Department have issued their highest-level travel alerts for China, advising Americans to avoid traveling there for the moment. (These advisories are likely to change as the outbreak evolves, so keep checking them.)
 
 And that’s not only because there’s a risk of catching this new virus. Right now, numerous airlines are canceling or scaling back flights to China, in part because of decreased demand. “I’m more concerned about the unpredictability of the [outbreak] response at this point,” said Nuzzo. “It would not be fun to go to China and get stuck there somehow. And coming back, you’ll be subject to additional screening.”
 
 But people worried about travel should remember that these advisories focus on China, where the epidemic is currently playing out.
 
-Of the 9,776 confirmed cases right now, 9,658 have been found in mainland China. That’s 99 percent. And more than half of those are in Hubei. “The risk of acquiring this infection outside of Hubei and, truly, outside of China is remarkably low,” said Isaac Bogoch, a professor at the University of Toronto who studies how air travel influences the dynamics outbreaks — including the new coronavirus infection.
+Of the 14,627 confirmed cases right now, 14,450 have been found in mainland China. That’s 99 percent. And more than half of those are in Hubei. “The risk of acquiring this infection outside of Hubei and, truly, outside of China is remarkably low,” said Isaac Bogoch, a professor at the University of Toronto who studies how air travel influences the dynamics outbreaks — including the new coronavirus infection.
 
 People with the virus have been detected in other countries, which is the reason the WHO declared the outbreak a public health emergency. But to date, those have mainly been travelers from China. “We can count the number of people who never had exposure to Hubei or China who were infected by this virus on one or two hands,” Bogoch said. “So if people are traveling [anywhere outside of China,] your risk is close to zero percent.”
 
 What if you have to travel and you’re seated near someone who is sick? Bogoch said that’s not even time to panic. “There has been some work looking into the risk of acquiring infectious diseases through air travel. The risk of acquiring a respiratory infection through air travel is still extraordinarily low.”
 
-The risk does go up if you happen to be seated within two meters of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long, or they’re not very infectious, the lower the risk.
+The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long, or they’re not very infectious, the lower the risk. And again, it’s unlikely that sick person even has the coronavirus.
 
 ## 4) I’m still worried about the new coronavirus. What should I do to protect myself? Buy a mask?
 
@@ -62,7 +62,7 @@ The outbreak was identified in Bavaria on January 27, when a German businessman 
 
 By January 28, three co-workers of the businessman were diagnosed with the virus, according to a New England Journal of Medicine case report. One had contact with the woman from Shanghai; the two others appear to have gotten the virus from the German businessman. “The fact that asymptomatic persons are potential sources of 2019-nCoV infection may warrant a reassessment of transmission dynamics of the current outbreak,” the study authors wrote.
 
-But they also emphasized how mild the disease appeared to be among the German patients. And there’s the question of how much of a risk asymptomatic spread truly poses to public health. “Even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic,” said Bogoch.
+But they also emphasized how mild the disease appeared to be among the German patients. And there’s the question of whether the woman was truly without symptoms and how much of a risk asymptomatic spread poses to public health. “Even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic,” said Bogoch.
 
 ## 6) Does the WHO declaration that the coronavirus is a global health emergency mean this is going to become a deadly pandemic?
 The WHO’s declaration of a “public health emergency of international concern,” or PHEIC, does not mean we are facing a deadly pandemic.
@@ -95,6 +95,6 @@ They then modeled how the disease could spread from those cities if they experie
 
 There are a few ways this outbreak could end, as my colleague Brian Resnick explained. Perhaps public health measures — identifying cases fast, putting infected people in isolation — will stop the spread of this coronavirus. (That’s what stopped the spread of SARS in 2003.)
 
-Because this is a zoonotic disease, which came from an animal, finding and eliminating that source would also help. Or maybe a vaccine or antiviral will be invented quickly to help curb a broader epidemic (but that’d likely take years).
+Because this is a zoonotic disease, which came from an animal, finding and eliminating that source would also help. Or maybe a vaccine or antiviral will be invented quickly to curb a broader epidemic (but that’d likely take years).
 
-Finally, there’s the possibility the virus will simply die out. “Disease outbreaks are a bit like fires,” Resnick wrote. “The virus is the flame. Susceptible people are the fuel. Eventually a fire burns itself out if it runs out of kindling. A virus outbreak will end when it stops finding susceptible people to infect.” There’s also the possibility the outbreak doesn’t end, as Nuzzo told Vox, and this simply becomes one of the diseases in circulation that commonly infects humans. How worrying that is again depends on how severe 2019nCoV turns out to be.
+Finally, there’s the possibility the virus will simply die out. “Disease outbreaks are a bit like fires,” Resnick wrote. “The virus is the flame. Susceptible people are the fuel. Eventually a fire burns itself out if it runs out of kindling. A virus outbreak will end when it stops finding susceptible people to infect.” There’s also the possibility, as Nuzzo told Vox, that this simply becomes one of the diseases in circulation that commonly infects humans. How worrying that is again depends on how severe 2019nCoV turns out to be.
