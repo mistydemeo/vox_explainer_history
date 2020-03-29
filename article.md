@@ -2,21 +2,21 @@
 
 Is it safe to travel? Is this going to become a pandemic? How will the outbreak end?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Mar 3, 2020, 1:57pm EST
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Mar 4, 2020, 10:05am EST
 
-The coronavirus outbreak, centered in China, keeps evolving at a dizzying speed. With the case toll rising steeply (reaching over 82,000 on February 27), face masks flying off store shelves, and businesses, cruise ships, and entire cities upended by the virus, it’s no wonder questions and fears are swirling about Covid-19, as the disease is known.
+The coronavirus outbreak, centered in China, keeps evolving at a dizzying speed. With the case toll rising steeply (reaching over 94,000 on March 4), face masks flying off store shelves, and businesses, cruise ships, and entire cities upended by the virus, it’s no wonder questions and fears are swirling about Covid-19, as the disease is known.
 
-The likelihood that we’re in a pandemic, a new disease that spreads around the world — or that we’re hurtling toward one — also seems higher than just a few weeks ago. That means more countries are likely to see a spread of the virus within their borders very soon — and that includes the US, the Centers for Disease Control and Prevention (CDC) warned on February 25.
+The likelihood that we’re in a pandemic, a new disease that spreads around the world — or that we’re hurtling toward one — is much higher than just a few weeks ago. That means more countries are likely to see a spread of the virus within their borders very soon — and that includes the US.
 
-“The spread in other countries has raised our level of concern and our level of expectation we’re going to have community spread here,” said Nancy Messonnier, director of the CDC’s National Center for Immunization and Respiratory Diseases. “It’s not a question of if this will happen, but when this will happen, and how many people in this country will have severe illnesses.”
+“The spread in other countries has raised our level of concern and our level of expectation we’re going to have community spread here,” said Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the Centers for Disease Control and Prevention (CDC), on February 25. “It’s not a question of if this will happen, but when this will happen, and how many people in this country will have severe illnesses.”
 
-By February 26, California announced a new Covid-19 case involving a person who had not traveled to any of the affected countries nor been in contact with anyone who had. Meanwhile, outbreaks have been surging outside of China, as far and wide as South Korea, Italy, and Iran. With the new virus continuing its tour around the world, here are answers to your most burning questions.
+By February 26, California announced a new Covid-19 case involving a person who had not traveled to any of the affected countries nor been in contact with anyone who had. There are now 60 cases, including six deaths, in at least a dozen states, according to the CDC. Meanwhile, outbreaks have been surging outside of China, as far and wide as South Korea, Italy, and Iran. With the new virus continuing its tour around the world, here are answers to your most burning questions.
 
 ## 1) What is this new coronavirus, and where did it come from?
 
 Coronaviruses are a large family of viruses that typically attack the respiratory system. The name comes from the Latin word corona, for crown, and the ancient Greek korōnè, meaning garland or wreath, because of the spiky fringe encircling these viruses. Most coronaviruses infect animals, such as bats, cats, and birds. Only seven, including Covid-19, SARS, and MERS, are known to infect humans.
 
-SARS is thought to have evolved from infecting bats to civet cats to humans in China; MERS evolved from bats to camels to humans in the Middle East. No one knows precisely where Covid-19 came from, though the leading hypothesis is that bats were once again the original source: They spread the virus to pangolins, and pangolins to humans.
+SARS is thought to have evolved from infecting bats to civet cats to humans in China; MERS evolved from bats to camels to humans in the Middle East. No one knows precisely where Covid-19 came from, though a leading hypothesis is that bats were once again the original source: They spread the virus to pangolins, and pangolins to humans.
 
 ## 2) What are the symptoms?
 
@@ -30,37 +30,41 @@ The researchers also discovered a huge variation in the case fatality rate by ag
 
 Overall, the researchers characterized 81 percent of the cases as mild and 19 percent as severe or critical.
 
-One major caveat, though: This data comes from mainland China, where most of the 2,012 deaths have occurred. And for reasons no one yet understands, the case fatality rate has been lower outside of mainland China.
+One major caveat, though: This data comes from mainland China, where most of the 2,012 deaths have occurred. And the case fatality rate has been different outside of China.
 
 At the same time, there’s also evidence of asymptomatic cases. And it’s possible that as we discover more of these cases, Covid-19 will seem more like seasonal flu than like SARS. That’s because infectious diseases typically look more severe when they’re first discovered since the people showing up in hospitals tend to be the sickest.
 
-As for symptoms: According to the CDC, most patients start with a fever, cough, and shortness of breath.
+As for symptoms: Fever and a dry cough are most common, while mucus, shortness of breath, sore throat, and headache are less common.
 
-A report, published in The Lancet, provided more detailed information. It looked at a subset of the first 41 patients with confirmed Covid-19 in Wuhan, China, the mainland Chinese city of 11 million where the outbreak is believed to have started.
-
-The most common symptoms were fever, cough, muscle pain, and fatigue; less common were headache, diarrhea, and coughing up mucus or blood. All had pneumonia and lung abnormalities on CT scans. As for the disease severity, 32 percent were admitted to an ICU, and 15 percent died. By January 22, most (68 percent) of the patients had been discharged from the hospital.
+No one knows the precise incubation period for the virus but symptoms can show up anywhere from one day to two weeks after exposure, according to a WHO report on China’s response.
 
 ## 3) How do coronaviruses spread?
 
-We don’t yet know how exactly how SARS-CoV-2 — the virus that causes the Covid-19 disease — spreads, but we do have a lot of data on how MERS, SARS, and other respiratory viruses move from person to person. And that’s mainly through exposure to droplets from coughing or sneezing.
+We don’t yet know exactly how SARS-CoV-2 — the virus that causes the Covid-19 disease — spreads, but we do have a lot of data on how MERS, SARS, and other respiratory viruses move from person to person. And that’s mainly through exposure to droplets from coughing or sneezing.
 
 So when an infected person coughs or sneezes, they let out a spray, and if these droplets reach the nose, eyes, or mouth of another person, they can pass on the virus, said Jennifer Nuzzo, an infectious disease expert and senior scholar at the Johns Hopkins Center for Health Security. In rarer cases, a person might catch a respiratory disease indirectly, “via touching droplets on surfaces — and then touching mucosal membranes” in the mouth, eyes, and nose, she added.
 
-There’s also emerging evidence showing that SARS-CoV-2 could spread through poop — known as the “fecal-oral” route of disease transmission. Researchers are on the lookout for potential airborne transmission, too.
+There’s also emerging evidence showing that SARS-CoV-2 could spread through poop — known as the “fecal-oral” route of disease transmission. Researchers are on the lookout for potential airborne transmission, too, and there’s a lot of speculation about whether inanimate objects — like door handles — can spread the virus.
+
+In the case of airborne transmission, a person would get infected by directly inhaling droplets suspended in the air from an infected individual. With “fomites” — objects that can transmit infections — droplets from an infected person would end up on surfaces another person touches. “So far, there is no conclusive evidence of that,” wrote Megan Murray, a Harvard Infectious Disease specialist, in a coronavirus explainer, “although that is challenging to prove one way or the other.”
+
+More and more research is piling up to suggest people who have only mild symptoms, or no symptoms at all, can test positive for Covid-19 disease. The virus also appears to be present in the body at very high levels early on in an illness.
+
+But “we still don’t know to what extent people without symptoms can infect,” Nuzzo cautioned. And Isaac Bogoch, a professor at the University of Toronto told Vox, “even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic.”
+
+Even so, if this virus can spread from people with no or mild symptoms, it might help explain why it’s so contagious. Researchers currently believe one person with Covid-19 generally infects two to more than three others, which would make the new coronavirus more transmissible than seasonal flu, SARS, and MERS.
 
 ## 4) Are there any places I shouldn’t go during this outbreak?
 
-The CDC has issued its highest-level travel alerts for South Korea and China, advising Americans to avoid traveling there for the moment. The two countries currently have the most coronavirus cases: more than 78,000 in mainland China, and 1,500 in South Korea.
-
-As of this week, the CDC is also warning travelers to Italy, Iran, and Japan to “practice enhanced precautions,” since these are the countries with the next-highest burden of illness.
+The CDC has issued its highest-level travel alerts for Italy, Iran, South Korea, and China, advising Americans to avoid traveling in these places for the moment. These are the countries with the largest known coronavirus outbreaks.
 
 But just because a country you plan to visit isn’t on the list right now doesn’t mean it won’t be there tomorrow. The outbreak is evolving rapidly, and these advisories are likely to change in the coming days, so keep checking in with the CDC. This map and list of travel restrictions from the Council on Foreign Relations is another good resource.
 
-And keep in mind: The travel warnings are not entirely driven by the risk of catching this new virus. Airlines have been canceling or scaling back flights, trains have been halted, and countries have been imposing sometimes arbitrary quarantines on travelers and citizens.
+Also keep in mind: The travel warnings are not entirely driven by the risk of catching this new virus. Airlines have been canceling or scaling back flights, trains have been halted, and countries have been imposing sometimes arbitrary quarantines on travelers and citizens.
 
 As Nuzzo told Vox: “I’m more concerned about the unpredictability of the [outbreak] response at this point. It would not be fun to go to China and get stuck there somehow. And coming back, you’ll be subject to additional screening” or quarantines.
 
-What if you decide to travel and you’re seated near someone who is coughing or sneezing? That’s not very reassuring, but it’s not time to panic, either. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low,” said Isaac Bogoch, a professor at the University of Toronto who studies how air travel influences the dynamics of outbreaks, including the new coronavirus infection.
+What if you decide to travel and you’re seated near someone who is coughing or sneezing? That’s not very reassuring, but it’s not time to panic, either. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low,” Bogoch, who studies how air travel influences the dynamics of outbreaks — including the new coronavirus infection.
 
 The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long or they’re not very infectious, the risk is lower.
 
@@ -68,30 +72,28 @@ The risk does go up if you happen to be seated within six feet of a person with 
 
 In the US, just about every health expert Vox has spoken to has said there’s little evidence to support the use of face masks for preventing disease in the general population.
 
-Masks are only useful if you have a respiratory infection already and want to minimize the risk of spread to others, or if you’re caring for someone who is sick or working in a hospital in direct contact with people who have respiratory illnesses. (Plus, there are reports of runs on masks and other supplies that health workers need to stay safe.)
+Masks are only useful if you have a respiratory infection already and want to minimize the risk of spread to others, or if you’re caring for someone who is sick or working in a hospital in direct contact with people who have respiratory illnesses. (Plus, there are reports of runs on masks and other supplies that health workers need to stay safe. If they can’t get them and start walking off the job, we’re all in trouble.)
 
 That’s why the CDC advises against the use of masks for regular Americans. The best thing you can do to prevent all sorts of illnesses, CDC’s Messonnier said, is “wash your hands, cover your cough, take care of yourself, and keep alert to the information that we’re providing.”
 
-## 6) What about the cases of people spreading the virus before they show symptoms? Isn’t that worrisome?
+## 6) What should I do if I think I have Covid-19?
 
-More and more research is piling up to suggest people who have only mild symptoms, or no symptoms at all, can test positive for Covid-19 disease. The virus also appears to be present in the body at very high levels early on in an illness.
+If you’re in a high-risk group — over the age of 60 with an underlying health condition — seek medical treatment immediately, and let your hospital or health care provider know you suspect Covid-19.
 
-But “we still don’t know to what extent people without symptoms can infect,” Nuzzo cautioned. And, as Bogoch told Vox, “even if there have been cases of asymptomatic transmission of this infection, those will be typically rare cases, and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic.”
+Otherwise, stay at home and call a health professional, Vox’s Umair Irfan explained. “They will work with your local health department and figure out whether you need to get tested or get treatment. Doctors and health officials advise not to go to the emergency room if your symptoms do not appear to be life-threatening.” There’s a good chance you’ll recover with nothing more than rest and fluids.
 
-Even so, if this virus can spread from people with no or mild symptoms, it might help explain why it’s so contagious. Researchers currently believe one person with Covid-19 generally infects two to more than three others, which would make the new coronavirus more transmissible than seasonal flu, SARS, and MERS.
+## 7) Is this a deadly pandemic?
+The CDC and WHO are still calling this an outbreak. But with the disease in more than 60 countries and major epidemics in several regions of the world, health experts told Vox we’re on the brink of a pandemic — or we’re already in one.
 
-## 7) Is this going to become a deadly pandemic?
-The CDC and WHO are still calling this an outbreak. But with case counts now surging in numerous countries besides China, health experts told Vox we’re on the brink of a pandemic — or we’re already in one. That means containing the virus — fully halting its spread — may no longer be possible.
+That means containing the virus — fully halting its spread — may no longer be possible.
 
 “I don’t think the answer is shutting down the world to stop this virus. It’s already out,” said Michael Osterholm, director of the University of Minnesota’s Center for Infectious Disease Research and Policy.
 
-“We are at a turning point in the Covid-19 epidemic,” said Lawrence Gostin, a global health law professor at Georgetown University. “We must prepare for the foreseeable possibility, even probability, that Covid-19 may soon become a pandemic affecting countries on virtually all continents.”
+“We must prepare for the foreseeable possibility, even probability, that Covid-19 may soon become a pandemic affecting countries on virtually all continents,” said Lawrence Gostin, a global health law professor at Georgetown University.
 
-Keep in mind, the p-word doesn’t say anything about the severity of Covid-19. A disease can spread widely, and become a pandemic, without being particularly severe. And no one knows yet what a Covid-19 pandemic would look like — mostly because we don’t yet know precisely how lethal this disease is.
+Keep in mind, the p-word doesn’t say anything about the severity of Covid-19. A disease can spread widely and become a pandemic without being particularly severe. And no one knows yet what a Covid-19 pandemic would look like — mostly because we don’t yet know precisely how lethal this disease is.
 
-If you take the current number of deaths and divide it by the number of known cases, “the case fatality is 2 percent — and it’s gone down from 3 percent in the early days,” said the University of Michigan’s Howard Markel, who studies outbreaks. “And if it goes really, really low, we’ll probably say — like we did in Mexico in 2009 with [H1N1] swine flu — that it’s something very similar, if not less deadly [than] regular seasonal flu.”
-
-Right now, most of the testing has focused on travelers from China and people with links to travelers from China. Once the testing is broadened and more mild cases are discovered, this virus could look a lot less deadly.
+If you take the current number of deaths and divide it by the number of known cases, the case fatality is over 3 percent — but that’s an average for the world, and it’s likely to go down. Right now, there are problems with access to diagnostic testing in many parts of the world, and much of the testing has focused on travelers from Asia. Once the testing is broadened and more mild cases are discovered, this virus may look a lot less deadly.
 
 “We live [with] and tolerate a whole lot of respiratory viruses,” Nuzzo said, “some of which are even more transmissible than the estimates people have come out with for this one — but they don’t make the headlines.”
 
@@ -99,7 +101,7 @@ Right now, most of the testing has focused on travelers from China and people wi
 
 Some of the best research on that question comes from researchers at the University of Oxford, University of Toronto, and the London School of Medicine and Tropical Hygiene. They published studies a few weeks ago on the places most vulnerable to novel coronavirus infections. The big takeaway then was that cities in East Asia and Southeast Asia were most at immediate risk.
 
-Here are 15 of the top destinations where they predicted we’d see outbreaks next (also pay attention to the IDVI, or Infectious Disease Vulnerability Index, number. It’s a measure of a country’s ability to manage infectious disease. Scores closer to zero mean they’re less prepared.)
+Here are 15 of the top destinations where they predicted we’d see outbreaks next. (You should also pay attention to the IDVI, or Infectious Disease Vulnerability Index, number. It’s a measure of a country’s ability to manage infectious disease. Scores closer to zero mean they’re less prepared.)
 
 Note that cities in Japan, Singapore, and South Korea were among the places that topped the list — and as we’re seeing now, some of the biggest outbreaks outside of China are playing out in these countries.
 
@@ -109,13 +111,13 @@ With the scope of this outbreak changing rapidly, the researchers just updated t
 
 This is a long-winded way of saying these places may be at immediate risk, according to some of the best guesses available.
 
-## 9) What might happen next?
+## 9) How does this end?
 
 There was a time when it seemed possible that China might contain the virus and the outbreaks outside of China would fizzle out, spelling the end of this public health emergency.
 
 But there are now so many around the world, and the very real possibility that the virus is circulating, undetected, in even more countries — especially those with weak health systems — that containment appears impossible.
 
-This means we’re likely to see more sickness and death not only in China but also in other countries, as cases grow from one-off travelers or small clusters to full-blown outbreaks.
+This means we’re likely to see more sickness and death not only in China but also in other countries as cases grow from one-off travelers or small clusters to full-blown outbreaks.
 
 In this scenario, Tony Fauci, the head of the National Institute of Allergy and Infectious Diseases, said, “you don’t try to control [the virus] because it’s already everywhere.”
 
@@ -127,17 +129,21 @@ But again, even if this virus moves around the world, it may not do much harm. I
 
 ## 10) How is the world responding to this crisis?
 
-On January 30, the WHO declared the outbreak a global public health emergency. Though it advised countries not to put in place travel or trade restrictions against China, several — including Russia and Singapore — sealed their borders, and even more have followed with the same move since.
+On January 30, the WHO declared the outbreak a global public health emergency.
 
-Meanwhile, the US government dramatically escalated its response — issuing its highest-level travel advisory, quarantining citizens evacuated from China, and temporarily banning foreign nationals who have recently been to the East Asian country from coming in.
-
-By February 25, CDC added travel advisories for South Korea, Italy, Iran, and Japan and warned that further Covid-19 spread in the US means “disruption to everyday life might be severe.”
+The most dramatic — and unprecedented — response is currently playing out in China, the country with the most Covid-19 cases. “China has implemented the most extensive cordon sanitaire [or quarantine] in the history of humankind,” Gostin told Vox. “They’ve restricted movements, caused fear and panic. They’ve violated human rights.”
 
 The severe measures can be explained by the fact that there’s still a lot we don’t know about this new virus — and that we have no enforceable international law governing outbreak responses. So countries can basically do what they want in response to pandemic threats without getting penalized, even if the WHO advises against whatever actions they’re taking.
 
-That appears to be the case in China, where the most dramatic — and unprecedented — response is currently playing out. “China has implemented the most extensive cordon sanitaire [or quarantine] in the history of humankind,” Gostin told Vox. “They’ve restricted movements, caused fear and panic. They’ve violated human rights.”
-
 Authorities there have also censored information and silenced the whistleblowers who tried to sound the alarm sooner than Chinese authorities were willing, and kicked out foreign journalists critical of China’s outbreak response. But again, because of the weakness of global health law, the international community has remained mostly silent about these actions.
+
+But the effects of Covid-19 are being felt around the world. Fears about how the outbreak might affect business prompted a stock market crash. Flights, events, conferences, and meetings have been canceled the world over, while some countries have opted to seal their borders to people from affected areas.
+
+In recent weeks, the US government dramatically escalated its response: issuing its highest-level travel advisories, quarantining citizens evacuated from China, and banning foreign nationals who have recently been to China from coming in, as well as travelers from Iran.
+
+Cities and states are also taking their own measures — including declaring states of emergency, in the case of Washington, and canceling events — while federal agencies work to expand access to Covid-19 diagnostic testing and develop a vaccine.
+
+On February 25, the CDC warned there may be a lot more to come; “disruption to everyday life might be severe.” This means Americans can expect more cancellations, quarantines, and social distancing efforts. (To read more about those, see this explainer.)
 
 ## 11) How might this end?
 
