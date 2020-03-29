@@ -2,7 +2,7 @@
 
 Is it safe to travel? Is this going to become a pandemic? How will the outbreak end?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Feb 27, 2020, 6:53am EST
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Mar 3, 2020, 1:57pm EST
 
 The coronavirus outbreak, centered in China, keeps evolving at a dizzying speed. With the case toll rising steeply (reaching over 82,000 on February 27), face masks flying off store shelves, and businesses, cruise ships, and entire cities upended by the virus, it’s no wonder questions and fears are swirling about Covid-19, as the disease is known.
 
@@ -148,3 +148,5 @@ Because this is a zoonotic disease, meaning it came from an animal, finding and 
 The coming seasons of warmer weather could also play a role in at least slowing down the virus. “Coronaviruses are winter viruses,” Fauci said. “When the weather is warm and moist, these viruses don’t spread as well as when the weather is cold and dry.”
 
 Finally, there’s the possibility the virus will simply die out. “Disease outbreaks are a bit like fires,” Resnick wrote. “The virus is the flame. Susceptible people are the fuel. Eventually, a fire burns itself out if it runs out of kindling. A virus outbreak will end when it stops finding susceptible people to infect.”
+
+Correction 3/2: A graphic in this piece previously misstated the percentage of cases in China that were not linked back to the Wuhan area. The graphic has been updated with the correct figure, 14 percent.
