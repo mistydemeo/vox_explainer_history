@@ -1,16 +1,16 @@
-# 10 questions about the Covid-19 coronavirus outbreak, answered
+# 9 questions about the Covid-19 coronavirus pandemic, answered
 
-What are the symptoms of this coronavirus? Where did it come from? How will the outbreak end?
+What are the symptoms of this coronavirus? Where did it come from? How will the pandemic end?
 
-By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Mar 11, 2020, 11:20pm EDT
+By Julia Belluz @juliaoftoronto julia.belluz@voxmedia.com  Updated Mar 12, 2020, 12:58pm EDT
 
-The coronavirus outbreak, which began in China, keeps evolving at a dizzying speed. With the global case toll rising steeply (reaching over 125,000 on March 11), face masks flying off store shelves, borders around the world closing, and meetings, cruise itineraries, and the global economy upended by the virus, it’s no wonder questions and fears are swirling about Covid-19, as the disease is known.
+The coronavirus outbreak, which began in China, keeps evolving at a dizzying speed. With the global case toll rising steeply (more than 127,000 as of March 12), face masks flying off store shelves, borders around the world closing, and meetings, cruise itineraries, and the global economy upended by the virus, it’s no wonder questions and fears are swirling about Covid-19, as the disease is known.
 
 On March 11, the WHO declared the outbreak a pandemic, a new disease that has spread around the world. Many countries have seen reported cases of the virus rise within their borders — and that includes the US.
 
 “We will see more cases, and things will get worse,” Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, told members of the House Oversight Committee on March 11. “How much worse … will depend on our ability to do two things: to contain the influx in people who are infected coming from the outside and the ability to contain and mitigate within our own country.”
 
-There are now more than 1,300 cases, and more than 30 deaths, across the US. Meanwhile, outbreaks have been surging in South Korea, Italy, and Iran. With the new virus continuing its tour around the world, here are answers to your most burning questions.
+There are now more than 1,300 reported cases, and more than 30 deaths, across the US. Spread of the virus and the slow rollout of testing means numbers could change quickly. Meanwhile, outbreaks have been surging in South Korea, Italy, and Iran. With the new virus continuing its tour around the world, here are answers to your most burning questions.
 
 ## 1) What is this new coronavirus, and where did it come from?
 
@@ -44,7 +44,7 @@ No one knows the precise incubation period for the virus, but symptoms can show 
 
 If you’re in a high-risk group — over the age of 60 with an underlying health condition — seek medical treatment immediately, and let your hospital or health care provider know you suspect Covid-19 before showing up.
 
-Otherwise, stay at home and call a health professional, Vox’s Umair Irfan explained. “They will work with your local health department and figure out whether you need to get tested or get treatment. Doctors and health officials advise not to go to the emergency room if your symptoms do not appear to be life-threatening.” There’s a good chance you’ll recover with nothing more than rest and fluids. But you will need to self-isolate while sick to avoid spreading the disease to others, including any people in your home. Here’s how to do it.
+Otherwise, stay at home and call a health professional, Vox’s Umair Irfan explained: “They will work with your local health department and figure out whether you need to get tested or get treatment. Doctors and health officials advise not to go to the emergency room if your symptoms do not appear to be life-threatening.” There’s a good chance you’ll recover with nothing more than rest and fluids. But you will need to self-isolate while sick to avoid spreading the disease to others, including any people in your home. Here’s how to do it.
 
 And if you are healthy, here are some ways you can help vulnerable people in your community.
 
@@ -64,21 +64,7 @@ What we do know: More and more research is piling up to suggest people who have 
 
 Even so, if this virus can spread from people with no or mild symptoms, it might help explain why it’s so contagious. Researchers currently believe one person with Covid-19 generally infects two to more than three others, which would make the new coronavirus more transmissible than seasonal flu, SARS, and MERS. That’s why social distancing measures are so important.
 
-## 5) Are there any places I shouldn’t go during this outbreak?
-
-The CDC has issued its highest-level travel alerts for Italy, Iran, South Korea, and China, advising Americans to avoid traveling in these places for the moment. These are the countries with the largest known coronavirus outbreaks. On March 11, President Donald Trump issued a ban on travel from most of Europe for 30 days.
-
-But just because a country you plan to visit isn’t on the list right now doesn’t mean it won’t be there tomorrow. The outbreak is evolving rapidly, and these advisories are likely to change in the coming days, so keep checking in with the CDC. This map and list of travel restrictions from the Council on Foreign Relations is another good resource.
-
-Also keep in mind: The travel warnings are not entirely driven by the risk of catching this new virus. Airlines have been canceling or scaling back flights, trains have been halted, and countries have been imposing sometimes arbitrary quarantines on travelers and citizens.
-
-As Nuzzo told Vox: “I’m more concerned about the unpredictability of the [outbreak] response at this point. It would not be fun to go to China and get stuck there somehow. And coming back, you’ll be subject to additional screening” or quarantines.
-
-What if you decide to travel and you’re seated near someone who is coughing or sneezing? That’s not very reassuring, but it’s not time to panic, either. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low,” Bogoch, who studies how air travel influences the dynamics of outbreaks — including the new coronavirus infection.
-
-The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long or they’re not very infectious, the risk is lower.
-
-## 6) I’m still worried about the new coronavirus. What should I do to protect myself? Buy a face mask?
+## 5) What should I do to protect myself? Buy a face mask?
 
 In the US, just about every health expert Vox has spoken to has said there’s little evidence to support the use of face masks for preventing disease in the general population.
 
@@ -88,14 +74,12 @@ That’s why the CDC advises against the use of masks for regular Americans. The
 
 Individuals at a higher risk of developing severe disease — the elderly, people with underlying health conditions — should take additional precautions: avoiding crowds and contact with people who are sick, and stocking up on medicines and groceries, Messonnier said.
 
-## 7) Is this a deadly pandemic?
+## 6) Is this a deadly pandemic?
 The WHO has officially declared the outbreak a pandemic, with the disease in more than 100 countries and major epidemics in several regions of the world.
 
 That means containing the virus — fully halting its spread — is no longer the goal but rather mitigation of fast spread and harm reduction.
 
 Keep in mind, the p-word doesn’t say anything about the severity of Covid-19. A disease can spread widely and become a pandemic without being particularly severe. And no one knows yet what the ultimate effects of this pandemic will look like — mostly because we don’t yet know precisely how lethal the disease is.
-
-## 8) Is containment still possible?
 
 There was a time when it seemed possible that China might contain the virus and the outbreaks outside of China would fizzle out, spelling the end of this public health emergency.
 
@@ -105,13 +89,37 @@ This means we’re likely to see more sickness and death in many countries as ca
 
 In this scenario, the NIH’s Fauci said, “you don’t try to control [the virus] because it’s already everywhere.”
 
-Health officials are now in the mitigation phase of the response strategy. This involves a focus on social distancing to slow the speed of the outbreak and avoid overwhelming health systems. It also involves ramping up public health communications to inform the public about the disease, testing of potential cases to find sick people and their contacts, and capacity in hospitals. So hospitals need to be ready with Covid-19 protocols so the disease doesn’t spread from them, and health care workers need to be protected with access to protective equipment such as face masks so they can keep doing their jobs. Countries also need plans in place for maintaining supply chains and carrying on with travel and trade.
+Health officials are now in the mitigation phase of the response strategy. This involves a focus on social distancing to slow the speed of the outbreak and avoid overwhelming health systems. It also involves ramping up public health communications to inform the public about the disease, testing of potential cases to find sick people and their contacts, and capacity in hospitals.
+
+So hospitals need to be ready with Covid-19 protocols so the disease doesn’t spread from them, and health care workers need to be protected with access to protective equipment such as face masks so they can keep doing their jobs. Countries also need plans in place for maintaining supply chains and carrying on with travel and trade.
+
+The slow rollout of testing in the US, in particular, has made slowing the spread of the virus more difficult.
+
+An investigation led by the Atlantic found that a little more than 7,000 Covid-19 tests had been performed in the US as of early March — putting the US far behind other developed countries. (The Atlantic’s investigation was in partnership with independent researchers. The Covid Tracking Project team is now gathering test counts daily.)
+
+Slowing epidemics is critical in preventing more deaths, as it reduces stress on hospitals and health centers, which can only treat a certain number of patients at a time. That’s why “flattening the curve” of the pandemic through social distancing measures is so important.
+
+As Eliza Barclay and Dylan Scott wrote for Vox: “A disastrous inundation of hospitals can likely be averted with protective measures we’re now seeing more of — closing schools, canceling mass gatherings, working from home, self-quarantine, self-isolation, avoiding crowds — to keep the virus from spreading fast.”
 
 In the best-case scenario, which has become less likely, this outbreak might look more like H1N1 swine flu. When H1N1 was first recognized in 2009 and spread around the world, there were major concerns about its lethality. US schools closed, people from North America were quarantined when they arrived in other countries, flights were canceled. Not only did those measures fail to contain the virus, Nuzzo said, but it also turned out H1N1 wasn’t all that deadly.
 
 “Now we’re still living with that virus — it’s one that circulates with every flu season,” Nuzzo explained.
 
-## 9) How is the world responding to this crisis?
+## 7) Are there any places I shouldn’t go during this outbreak?
+
+The CDC has issued its highest-level travel alerts for Italy, Iran, South Korea, and China, advising Americans to avoid traveling in these places for the moment. These are the countries with the largest known coronavirus outbreaks. On March 11, President Donald Trump issued a ban on travel from most of Europe for 30 days.
+
+But just because a country you plan to visit isn’t on the list right now doesn’t mean it won’t be there tomorrow. The outbreak is evolving rapidly, and these advisories are likely to change in the coming days, so keep checking in with the CDC. This map and list of travel restrictions from the Council on Foreign Relations is another good resource.
+
+As Nuzzo told Vox: “I’m more concerned about the unpredictability of the [outbreak] response at this point. It would not be fun to go to China and get stuck there somehow. And coming back, you’ll be subject to additional screening” or quarantines.
+
+What if you decide to travel and you’re seated near someone who is coughing or sneezing? That’s not very reassuring, but it’s not time to panic, either. “The risk of acquiring a respiratory infection through air travel is still extraordinarily low,” Bogoch, who studies how air travel influences the dynamics of outbreaks — including the new coronavirus infection.
+
+The risk does go up if you happen to be seated within six feet of a person with a respiratory infection. But even there, simple proximity doesn’t necessarily mean you’ll catch anything. Instead, the more infectious the person is, and the longer you sit near them, the higher your risk. If you’re not near the person for very long or they’re not very infectious, the risk is lower.
+
+Also keep in mind: The travel warnings are not entirely driven by the risk of catching this new virus. Airlines have been canceling or scaling back flights, trains have been halted, and countries have been imposing quarantines on travelers and citizens.
+
+## 8) How is the world responding to this crisis?
 
 On January 30, the WHO declared the outbreak a global public health emergency, and about a month later said it had become a pandemic.
 
@@ -127,7 +135,7 @@ The CDC warned, on February 25, there may be a lot more to come; “disruption t
 
 The severe measures can be explained by the fact that there’s still a lot we don’t know about this new virus and health officials are taking drastic actions. There’s also no enforceable international law governing outbreak responses, so countries can basically do what they want in response to pandemic threats without getting penalized, even if those actions are proportional or science-based, and the WHO is advising against them.
 
-## 10) How might this end?
+## 9) How might this end?
 
 There are a few ways this outbreak could end, as Vox’s Brian Resnick explained. Perhaps public health measures — identifying cases fast, putting infected people in isolation — will slow the spread of this coronavirus. (That’s what stopped the spread of SARS in 2003.)
 
